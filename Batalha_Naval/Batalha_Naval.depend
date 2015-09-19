@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1358471109 source:c:\users\pedro marquinhos\desktop\estga\inf-prog\fichas\batalha_naval\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+
+1358873045 source:c:\users\paulo-fleck\desktop\batalha_naval\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+
+1354741599 source:c:\users\pedro marquinhos\downloads\batalha_naval_v3.1\batalha_naval\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+
